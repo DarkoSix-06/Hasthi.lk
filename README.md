@@ -51,6 +51,9 @@ Receive updates about new rescues, conservation efforts, and events.
 ---
 
 ## 🖼️ Screenshots
+
+https://github.com/user-attachments/assets/84b3c3ce-162b-40d5-91db-096e66e930ce
+
 ![Screenshot_19-11-2025_152417_localhost](https://github.com/user-attachments/assets/eac25f5c-0d9a-419b-b0e3-338c7d78a282)
 
 <img width="1358" height="1635" alt="screencapture-localhost-5173-register-2025-11-19-14_54_27" src="https://github.com/user-attachments/assets/2c2c4364-6341-497c-84fb-45781dd0d047" />
